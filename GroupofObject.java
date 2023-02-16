@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.lang.String;
 
 class Employee
 {
